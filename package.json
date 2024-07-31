@@ -1,0 +1,25 @@
+{
+    "name": "create-vechain-dapp",
+    "version": "1.0.15",
+    "private": false,
+    "license": "MIT",
+    "type": "module",
+    "main": "index.js",
+    "bin": {
+        "create-vechain-dapp": "index.js"
+    },
+    "files": [
+        "index.js",
+        "utils.js",
+        "templates/**"
+    ],
+    "scripts": {
+        "clone-templates": "./scripts/clone-templates.sh"
+    },
+    "dependencies": {
+        "prompts": "^2.4.2"
+    },
+    "engines": {
+        "node": "^18.0.0 || >=20.0.0"
+    }
+}
