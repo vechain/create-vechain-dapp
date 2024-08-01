@@ -25,8 +25,9 @@ const templates = [
   },
   {
     value: "react-dapp-template",
-    title: "Fiorino React dApp Template",
-    description: "Simple React dApp to mint and send a token called Fiorino 🤑",
+    title: "React dApp Template",
+    description:
+      "React dApp template to mint and send an erc20 token called Fiorino 🤑",
   },
 ];
 
