@@ -21,13 +21,14 @@ const templates = [
   {
     value: "x-app-template",
     title: "X-App Template",
-    description: "X-App Template for VeBetterDAO 🚀",
+    description:
+      "A full-featured boilerplate for building dApps tailored for VeBetterDAO 🚀",
   },
   {
     value: "react-dapp-template",
     title: "React dApp Template",
     description:
-      "React dApp template to mint and send an erc20 token called Fiorino 🤑",
+      "A minimal setup for a React front-end interacting with a contract, perfect for minting & sending an ERC20 token called Fiorino 🤑",
   },
 ];
 
