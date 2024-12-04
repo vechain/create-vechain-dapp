@@ -16,6 +16,22 @@
   "scripts": {
     "update-templates": "./scripts/update-templates.sh"
   },
+  "keywords": [
+    "vechain",
+    "dapp",
+    "blockchain",
+    "create-app",
+    "boilerplate",
+    "template",
+    "react",
+    "hardhat",
+    "smart-contracts",
+    "web3",
+    "ethereum",
+    "starter-kit",
+    "x2earn",
+    "scaffold"
+  ],
   "dependencies": {
     "prompts": "^2.4.2"
   },
