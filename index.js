@@ -30,6 +30,12 @@ const templates = [
     description:
       "A minimal setup for a React front-end interacting with a contract, perfect for minting & sending an ERC20 token called Fiorino 🤑",
   },
+  {
+    value: "vechain-hardhat-template",
+    title: "VeChain Hardhat Template",
+    description:
+      "A minimal setup for developing smart contracts on VeChain with Hardhat",
+  },
 ];
 
 const copyFilesAndDirectories = async (source, destination) => {
