@@ -2,13 +2,6 @@
 # yarn lockfile v1
 
 
-"create-vechain-dapp@file:":
-  version "1.0.2"
-  resolved "file:"
-  dependencies:
-    create-vechain-dapp "file:"
-    prompts "^2.4.2"
-
 kleur@^3.0.3:
   version "3.0.3"
   resolved "https://registry.npmjs.org/kleur/-/kleur-3.0.3.tgz"
