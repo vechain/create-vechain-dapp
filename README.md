@@ -96,7 +96,9 @@ After merging template PRs, follow these steps to publish the changes:
 
 2. Run `npm link` to test the package locally
 
-3. Run `npm publish` to publish the new version to npm registry
+3. Run `scripts/update-templates.sh` to update the templates
+
+4. Run `npm publish` to publish the new version to npm registry
 
 Note: Make sure you have the necessary npm permissions to publish the package.
 
