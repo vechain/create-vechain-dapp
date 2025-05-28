@@ -37,6 +37,12 @@ const templates = [
       "A minimal setup for a React front-end interacting with a contract, perfect for minting & sending an ERC20 token called Fiorino 🤑",
   },
   {
+    value: "buy-me-coffee-example",
+    title: "Buy Me Coffee Example",
+    description:
+      "Guided template with examples on how to create a dapp, a smart contract and link them both.",
+  },
+  {
     value: "vechain-hardhat-template",
     title: "VeChain Hardhat Template",
     description:

@@ -45,6 +45,17 @@ A streamlined monorepo setup using Turbo with:
 
 Ideal for developers starting new projects on VeChain from scratch.
 
+There are two versions of this template:
+
+- Using VeChain Kit
+- Using DAppKit
+
+### Buy Me Coffee Example
+
+Guided template with examples on how to create a dapp, a smart contract and link them both.
+
+The "Buy Me A Coffee" DApp allows users to send coffee donations to the contract owner. It is built using Solidity for the smart contract and can be deployed using Hardhat.
+
 ### Smart Contract Template 📜
 
 A focused template for smart contract development:
