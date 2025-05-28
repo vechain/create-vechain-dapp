@@ -26,7 +26,13 @@ const templates = [
   },
   {
     value: "react-dapp-template",
-    title: "React dApp Template",
+    title: "React dApp Template (using VeChain Kit)",
+    description:
+      "A minimal setup for a React front-end, with social login, interacting with a contract, perfect for minting & sending an ERC20 token called Fiorino 🤑",
+  },
+  {
+    value: "react-dapp-template-with-dappkit",
+    title: "React dApp Template (using DAppKit)",
     description:
       "A minimal setup for a React front-end interacting with a contract, perfect for minting & sending an ERC20 token called Fiorino 🤑",
   },

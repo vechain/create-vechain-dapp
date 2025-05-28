@@ -4,6 +4,7 @@
 REPOS=(
   "https://github.com/vechain/x-app-template.git x-app-template"
   "https://github.com/vechain/react-dapp-template.git react-dapp-template"
+  "https://github.com/Agilulfo1820/react-dapp-template-with-dappkit.git react-dapp-template"
   "https://github.com/vechain/vechain-hardhat-template.git vechain-hardhat-template"
 )
 
