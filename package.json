@@ -1,7 +1,7 @@
 {
   "name": "create-vechain-dapp",
   "description": "Jump-start your development on VeChain with our pre-built templates that come with pre-configured tools, best practices, and comprehensive documentation to help you start building right away.",
-  "version": "1.3.0",
+  "version": "1.5.0",
   "private": false,
   "license": "MIT",
   "type": "module",
