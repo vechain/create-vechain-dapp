@@ -19,6 +19,12 @@ import prompts from "prompts";
 
 const templates = [
   {
+    value: "vekit-nextjs-template",
+    title: "VeChain Kit Next.js Template (Chakra, React Query, SDK)",
+    description:
+      "A minimal setup for a Next.js front-end, perfect for create a new dapp with VeChain Kit, Chakra, React Query, and SDK",
+  },
+  {
     value: "x-app-template",
     title: "X-App Template",
     description:

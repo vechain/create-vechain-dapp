@@ -7,6 +7,7 @@ REPOS=(
   "https://github.com/Agilulfo1820/react-dapp-template-with-dappkit.git react-dapp-template"
   "https://github.com/vechain/buy-me-coffee-example buy-me-coffee-example"
   "https://github.com/vechain/vechain-hardhat-template.git vechain-hardhat-template"
+  "https://github.com/vechain/vekit-nextjs-template.git vekit-nextjs-template"
 )
 
 # Define the template folder name
